@@ -1,4 +1,4 @@
-![image](https://github.com/oshpo-rimi/periodic-table/assets/132921683/b591839f-727b-46f8-9fa7-7ad090c6c2b4)
+
 ![image](https://github.com/oshpo-rimi/periodic-table/assets/132921683/933bd94f-8560-4079-a7f0-27d9d4d03b39)
 ![image](https://github.com/oshpo-rimi/periodic-table/assets/132921683/6f51ba31-d2e5-4975-b78c-dd264a355bda)
 
